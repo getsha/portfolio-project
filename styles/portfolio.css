@@ -6,6 +6,7 @@
 }
 body {
   font-family: var(--default-font-family);
+  background: #e8f9fd;
 }
 h1,
 h2,
@@ -13,7 +14,7 @@ h3,
 h4,
 h5,
 h6 {
-  color: black;
+  color: #007bff;
   font-family: var(--heading-font-family);
   font-weight: bold;
 }
@@ -83,6 +84,7 @@ img {
   font-size: 18px;
   line-height: 27px;
   padding: 15px 30px;
+  text-decoration: none;
 }
 .btn-branding-outline {
   color: var(--branding-color);
@@ -91,9 +93,10 @@ img {
   font-size: 18px;
   line-height: 27px;
   padding: 15px 30px;
+  text-decoration: none;
 }
 .project-description {
-  padding: 120px 60px;
+  padding: 20px 60px;
 }
 nav {
   padding: 20px 0;
