@@ -39,7 +39,7 @@ img {
 .hero {
   background: var(--secondary-color);
   text-align: center;
-  padding: 60px 20px;
+  padding: 40px 20px;
 }
 .hero p {
   font-size: 36px;
