@@ -54,7 +54,7 @@ img {
   font-family: var(--default-font-family);
 }
 .content-container {
-  padding: 30px 20px;
+  padding: 20px 20px;
 }
 .content h1 {
   font-size: 64px;
@@ -75,7 +75,7 @@ img {
 }
 
 .content {
-  margin: 30px;
+  margin: 20px;
 }
 .btn-branding {
   background: var(--branding-color);
